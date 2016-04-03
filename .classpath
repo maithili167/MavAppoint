@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/spring-security-crypto-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAITHILI/Downloads/org.apache.commons.io-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAITHILI/Downloads/org.apache.commons.codec-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAITHILI/Downloads/servlet-1.0.0-v20070606.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAITHILI/Downloads/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAITHILI/Downloads/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAITHILI/Downloads/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAITHILI/Downloads/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/jar/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
